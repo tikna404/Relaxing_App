@@ -36,7 +36,7 @@ cd relaxing-breath-app
 ## Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
 
-# Happy Coding!
+# Happy Coding! And Relax
 
 
 
